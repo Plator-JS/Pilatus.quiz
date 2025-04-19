@@ -18,7 +18,7 @@ let questions = [
         question: 'Wie viele Flugzeug-typen hat die Pilatus Flugzeugwerke AG?',
  
         answers: ['23','4','10','15'],
-        correctAnswer: 3
+        correctAnswer: 1
     },
     {
         question: 'Wie viele Jobs bietet die Pilatus Flugzeugwerke AG an?',
@@ -35,7 +35,7 @@ let questions = [
     {
         question: 'Wie viele lernende hat die Pilatus Flugzeugwerke AG?',
    
-        answers: ['400','1300','1700','2000'],
+        answers: ['400','140','1700','2000'],
         correctAnswer: 1
     },
     {
@@ -53,8 +53,8 @@ let questions = [
     {
         question: 'Was bedeutet das Logo der Pilatus Flugzeugwerke AG?',
    
-        answers: ['ein Historisches Flugzeug','die Schweizer Berge','die Zahnradbahn des Pilatus','ein Adler im Flugzeug'],
-        correctAnswer: 1
+        answers: ['ein Historisches Flugzeug','die Schweizer Berge','die Zahnradbahn des Pilatus','die Flügel von einem Adler'],
+        correctAnswer: 3
     },
 ];
 
